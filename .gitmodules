@@ -1,0 +1,6 @@
+[submodule "ByteCodeCore"]
+	path = ByteCodeCore
+	url = https://github.com/Obicere/ByteCodeCore
+[submodule "ByteCodeViewer"]
+	path = ByteCodeViewer
+	url = https://github.com/Obicere/ByteCodeViewer
